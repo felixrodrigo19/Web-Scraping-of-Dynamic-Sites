@@ -1,0 +1,374 @@
+{
+    "3points": [
+        {
+            "pos": NaN,
+            "player": "Aaron Gordon",
+            "team": "DEN",
+            "total": 1.0
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Henry",
+            "team": "PHI",
+            "total": 0.0
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Holiday",
+            "team": "WAS",
+            "total": 0.7
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Nesmith",
+            "team": "BOS",
+            "total": 0.5
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Wiggins",
+            "team": "OKC",
+            "total": 1.5
+        },
+        {
+            "pos": NaN,
+            "player": "Abdel Nader",
+            "team": "PHX",
+            "total": 0.3
+        },
+        {
+            "pos": NaN,
+            "player": "Al Horford",
+            "team": "BOS",
+            "total": 1.3
+        },
+        {
+            "pos": NaN,
+            "player": "Alec Burks",
+            "team": "NYK",
+            "total": 1.7
+        },
+        {
+            "pos": NaN,
+            "player": "Aleksej Pokusevski",
+            "team": "OKC",
+            "total": 0.6
+        },
+        {
+            "pos": NaN,
+            "player": "Alex Caruso",
+            "team": "CHI",
+            "total": 0.9
+        }
+    ],
+    "points": [
+        {
+            "pos": NaN,
+            "player": "Aaron Gordon",
+            "team": "DEN",
+            "total": 12.6
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Henry",
+            "team": "PHI",
+            "total": 0.0
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Holiday",
+            "team": "WAS",
+            "total": 6.4
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Nesmith",
+            "team": "BOS",
+            "total": 2.5
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Wiggins",
+            "team": "OKC",
+            "total": 4.5
+        },
+        {
+            "pos": NaN,
+            "player": "Abdel Nader",
+            "team": "PHX",
+            "total": 2.8
+        },
+        {
+            "pos": NaN,
+            "player": "Al Horford",
+            "team": "BOS",
+            "total": 13.1
+        },
+        {
+            "pos": NaN,
+            "player": "Alec Burks",
+            "team": "NYK",
+            "total": 8.4
+        },
+        {
+            "pos": NaN,
+            "player": "Aleksej Pokusevski",
+            "team": "OKC",
+            "total": 5.0
+        },
+        {
+            "pos": NaN,
+            "player": "Alex Caruso",
+            "team": "CHI",
+            "total": 7.5
+        }
+    ],
+    "assistants": [
+        {
+            "pos": NaN,
+            "player": "Aaron Gordon",
+            "team": "DEN",
+            "total": 1.9
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Henry",
+            "team": "PHI",
+            "total": 0.0
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Holiday",
+            "team": "WAS",
+            "total": 1.8
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Nesmith",
+            "team": "BOS",
+            "total": 0.5
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Wiggins",
+            "team": "OKC",
+            "total": 2.0
+        },
+        {
+            "pos": NaN,
+            "player": "Abdel Nader",
+            "team": "PHX",
+            "total": 0.6
+        },
+        {
+            "pos": NaN,
+            "player": "Al Horford",
+            "team": "BOS",
+            "total": 3.3
+        },
+        {
+            "pos": NaN,
+            "player": "Alec Burks",
+            "team": "NYK",
+            "total": 1.6
+        },
+        {
+            "pos": NaN,
+            "player": "Aleksej Pokusevski",
+            "team": "OKC",
+            "total": 1.2
+        },
+        {
+            "pos": NaN,
+            "player": "Alex Caruso",
+            "team": "CHI",
+            "total": 3.9
+        }
+    ],
+    "rebounds": [
+        {
+            "pos": NaN,
+            "player": "Aaron Gordon",
+            "team": "DEN",
+            "total": 5.9
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Henry",
+            "team": "PHI",
+            "total": 0.0
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Holiday",
+            "team": "WAS",
+            "total": 2.0
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Nesmith",
+            "team": "BOS",
+            "total": 1.7
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Wiggins",
+            "team": "OKC",
+            "total": 3.0
+        },
+        {
+            "pos": NaN,
+            "player": "Abdel Nader",
+            "team": "PHX",
+            "total": 2.1
+        },
+        {
+            "pos": NaN,
+            "player": "Al Horford",
+            "team": "BOS",
+            "total": 8.8
+        },
+        {
+            "pos": NaN,
+            "player": "Alec Burks",
+            "team": "NYK",
+            "total": 3.1
+        },
+        {
+            "pos": NaN,
+            "player": "Aleksej Pokusevski",
+            "team": "OKC",
+            "total": 4.3
+        },
+        {
+            "pos": NaN,
+            "player": "Alex Caruso",
+            "team": "CHI",
+            "total": 3.3
+        }
+    ],
+    "steals": [
+        {
+            "pos": NaN,
+            "player": "Aaron Gordon",
+            "team": "DEN",
+            "total": 0.5
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Henry",
+            "team": "PHI",
+            "total": 0.0
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Holiday",
+            "team": "WAS",
+            "total": 0.5
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Nesmith",
+            "team": "BOS",
+            "total": 0.3
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Wiggins",
+            "team": "OKC",
+            "total": 1.0
+        },
+        {
+            "pos": NaN,
+            "player": "Abdel Nader",
+            "team": "PHX",
+            "total": 0.7
+        },
+        {
+            "pos": NaN,
+            "player": "Al Horford",
+            "team": "BOS",
+            "total": 0.8
+        },
+        {
+            "pos": NaN,
+            "player": "Alec Burks",
+            "team": "NYK",
+            "total": 0.8
+        },
+        {
+            "pos": NaN,
+            "player": "Aleksej Pokusevski",
+            "team": "OKC",
+            "total": 0.5
+        },
+        {
+            "pos": NaN,
+            "player": "Alex Caruso",
+            "team": "CHI",
+            "total": 2.5
+        }
+    ],
+    "blocks": [
+        {
+            "pos": NaN,
+            "player": "Aaron Gordon",
+            "team": "DEN",
+            "total": 0.9
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Henry",
+            "team": "PHI",
+            "total": 0.0
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Holiday",
+            "team": "WAS",
+            "total": 0.5
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Nesmith",
+            "team": "BOS",
+            "total": 0.0
+        },
+        {
+            "pos": NaN,
+            "player": "Aaron Wiggins",
+            "team": "OKC",
+            "total": 0.5
+        },
+        {
+            "pos": NaN,
+            "player": "Abdel Nader",
+            "team": "PHX",
+            "total": 0.3
+        },
+        {
+            "pos": NaN,
+            "player": "Al Horford",
+            "team": "BOS",
+            "total": 2.3
+        },
+        {
+            "pos": NaN,
+            "player": "Alec Burks",
+            "team": "NYK",
+            "total": 0.4
+        },
+        {
+            "pos": NaN,
+            "player": "Aleksej Pokusevski",
+            "team": "OKC",
+            "total": 0.5
+        },
+        {
+            "pos": NaN,
+            "player": "Alex Caruso",
+            "team": "CHI",
+            "total": 0.4
+        }
+    ]
+}
